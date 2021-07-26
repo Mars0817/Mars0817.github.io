@@ -3,14 +3,17 @@
 #      - DevOps
       - Linux
       - Mysql
+      - PHP
+      - GO
       - docker
       - kubernetes
-      - Python
-      - Ansible
-      - Rundeck
-      - Dubbo
-      - Zookeeper
-      - Disconf
+      - Redis
+#      - Python
+#      - Ansible
+#      - Rundeck
+#      - Dubbo
+#      - Zookeeper
+#      - Disconf
       - Nginx
       - jenkins
       - git

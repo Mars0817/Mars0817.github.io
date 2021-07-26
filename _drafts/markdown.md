@@ -18,14 +18,14 @@ mathjax: true
 ### 超链接
 
 ```
-[靠谱-ing](https://echo-music.github.io/)
+[靠谱-ing](https://Mars0817.github.io/)
 
-<https://echo-music.github.io/>
+<https://Mars0817.github.io/>
 ```
 
-[靠谱-ing](https://echo-music.github.io/)  
+[靠谱-ing](https://Mars0817.github.io/)  
 
-<https://echo-music.github.io/>
+<https://Mars0817.github.io/>
 
 ### 列表
 

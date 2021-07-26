@@ -1,5 +1,5 @@
 // https://github.com/ghiculescu/jekyll-table-of-contents
-// Updated by https://echo-music.github.io/
+// Updated by https://Mars0817.github.io/
 (function($){
   $.fn.toc = function(options) {
     var defaults = {

@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 程序人生
-keywords: Fangting Liu, marsblog, mars的博客
+keywords: Fangting Liu, Mars0817, mars的博客
 comments: true
 menu: 关于
 permalink: /about/

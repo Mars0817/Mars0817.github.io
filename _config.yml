@@ -2,25 +2,29 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: https://echo-music.github.io/
+#url: https://Mars0817.github.io/
 date_format: "ordinal"
-title: 刘方亭.blog
-subtitle: "发粪💩涂墙💪--------"
-description: "刘方亭的个人博客"
-keywords: echo_music, Fangting Liu,  echo-music ,刘方亭的个人博客
+title: Mars.blog
+subtitle: "🈚️所作为"
+description: "Mars的个人博客"
+keywords: mars0817,  Mars的个人博客
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: echo-music/echo-music.github.io
+repository: https://github.com/Mars0817/Mars0817.github.io
+
+theme: minima
+plugins:
+  - jekyll-feed
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Fangting Liu
+author: Mars
 organization: 
 organization_url: 
-github_username: echo-music
+github_username: Mars0817
 location: Beijing, China
-email: php_fangting@126.com
+email: mars0817@icloud.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: echo-music/echo-music.github.io
+repository: Mars0817/Mars0817.github.io
 
 # ---------------- #
 #      Comments    #
@@ -91,15 +95,15 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: echo-music
-    repo: echo-music.github.io
+    owner: Mars0817
+    repo: Mars0817.github.io
     oauth:
         client_id: f1b37e802c634863604a
         client_secret: 3185e464e62d9eab0a432c06daebfa3a6af7e874
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: echo-music
-    repo: echo-music.github.io
+    owner: Mars0817
+    repo: Mars0817.github.io
     clientID: f1b37e802c634863604a
     clientSecret: 3185e464e62d9eab0a432c06daebfa3a6af7e874
 # 在使用其它评论组件时可点击显示 Disqus
